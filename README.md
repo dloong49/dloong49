@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dillonleader
+👋 Hi, I’m @dillonleader
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dillonleader&show_icons=true)

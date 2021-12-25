@@ -1,4 +1,5 @@
-👋 Hi, I’m @dillonleader ，I'am a front-end developer
+👋 Hi, I’m @dillonleader 
+   I'am a front-end developer
 
 My contact information:
 

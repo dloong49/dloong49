@@ -11,5 +11,5 @@ My contact information:
 - Email：dillonl.dl49@gmail.com
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DingLayton&show_icons=true)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DingLayton&layout=compact)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DING&show_icons=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DING&layout=compact)  

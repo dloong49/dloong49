@@ -8,5 +8,5 @@ My contact information:
 - Email：dillonl.dl49@gmail.com
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dillonl0409&show_icons=true)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonl0409&layout=compact)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlongs49&show_icons=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlongs49&layout=compact)  

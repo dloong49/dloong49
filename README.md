@@ -9,4 +9,4 @@ My contact information:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlongs49&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlongs49&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlongs49&hide=css,html,less,scss&layout=compact)

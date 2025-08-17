@@ -8,6 +8,6 @@ My contact information:
 - Email：dillonl.dl49@gmail.com 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlongs49&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlongs49&hide=css,html,less,scss&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dloong49&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dloong49&hide=css,html,less,scss&layout=compact)
 
